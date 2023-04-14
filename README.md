@@ -6,9 +6,13 @@ An interface implemented in Js, HTML and Css that allows the user to visualize a
 Note that the program is not polished and needs some last visual modifications. However it works perfectly fine and can be tested.
 To make the program work just execute it in a local host.
 An interface witha  grid and two inputs should apear. There should be four buttons. The grid nodes are numbered from starting at 1 at top-left corner and finishing at bottom right corner going in columns. 
+
 "1,2,3..... n-1, n"
+
 "n+1, n+2......., 2n"
+
 ....................
+
 ".................n*n"
 
 To run a BFS just type the nodes Id in the input and click "run BFS"
